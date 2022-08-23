@@ -18,5 +18,5 @@ def insert_sort(arr):
 
 if __name__ == "__main__":
     array = np.random.rand(1000)
-    arr = ['chief', 'ayoyinka', 'titilayo']
+    arr = ['zoo', 'foo', 'bar']
     print(insert_sort(arr))

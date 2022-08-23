@@ -19,9 +19,8 @@ def insert_sort(item, steps):
 if __name__ == "__main__": 
     arr = np.random.randint(100)
     num = [3,2,4,6,5,7,9,10,8] 
-    words = ['chief', 'babe', 'babie'] 
-    words2 = ['chief', 'ayoyinka', 'titilayo']
-    print(insert_sort(words2, len(words2)))
+    words = ['xoo', 'foo', 'bar'] 
+    print(insert_sort(words, len(words)))
 
             
 
