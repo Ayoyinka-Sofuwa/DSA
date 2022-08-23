@@ -1,1 +1,1 @@
-A repository for algorihm analysis
+A repository for algorithm analysis
